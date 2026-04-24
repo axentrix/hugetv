@@ -1,0 +1,2 @@
+import.meta.hot.accept()
+import.meta.hot.prune( () => __vite__removeStyle(__vite__id))

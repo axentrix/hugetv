@@ -1,0 +1,145 @@
+/* General Sans Font Family */
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Extralight.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Extralight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-ExtralightItalic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-ExtralightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Light.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-LightItalic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Regular.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Italic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Medium.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-MediumItalic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Semibold.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-SemiboldItalic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-SemiboldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-Bold.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('../imports/fonts/general-sans/GeneralSans-BoldItalic.woff2') format('woff2'),
+       url('../imports/fonts/general-sans/GeneralSans-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Beni Font Family */
+@font-face {
+  font-family: 'Beni';
+  src: url('../imports/fonts/beni/BeniLight.woff2') format('woff2'),
+       url('../imports/fonts/beni/BeniLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Beni';
+  src: url('../imports/fonts/beni/BeniRegular.woff2') format('woff2'),
+       url('../imports/fonts/beni/BeniRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Beni';
+  src: url('../imports/fonts/beni/BeniBold.woff2') format('woff2'),
+       url('../imports/fonts/beni/BeniBold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Beni';
+  src: url('../imports/fonts/beni/BeniBlack.woff2') format('woff2'),
+       url('../imports/fonts/beni/BeniBlack.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
